@@ -1,0 +1,21 @@
+@charset "UTF8";
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    font-size: 20px;
+    color: pink;
+}
+h1{
+    color: white;
+    background-color: pink;
+    text-align: center;
+}
+h2{
+    color: pink;
+    background-color: white;
+    text-align: center;
+}
+p{
+    text-align: justify;
+}
